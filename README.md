@@ -9,6 +9,7 @@
 
 1. Importar base de datos : esta en scriptBD
 2. Cambiar puerto de DB y contraseña si es necesario, se encuentra en .env
+3. Se puede clonar el repositorio con git clone o descargarlo.
 
 ## About Laravel
 
